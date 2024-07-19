@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b008fb_8f7ff58ce8444721a4292503c9d2e054~mv2.gif">
 
-🔭 I’m currently exploring:
+## 🔭 I’m currently exploring:
 - Data Science: From foundational concepts to advanced machine learning algorithms.
 - SQL: For efficient data management and insightful querying
 - PowerBI: Creating impactful visual stories with Power BI
@@ -13,7 +13,7 @@
 - Deep Learning: Exploring neural networks and deep learning architectures for solving complex problems.
 - Natural Language Processing (NLP): Harnessing the power of NLP techniques for text analysis and understanding.
 
-🌱 💼 Previous experience: Data Analyst Intern 
+## 🌱 💼 Previous experience: Data Analyst Intern 
 
 - 📫 How to reach me
 -  **Linkedin :https://www.linkedin.com/in/minakshi-shiwankar-694472235/**
