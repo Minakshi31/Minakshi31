@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minakshi Shiwankar</h1>
 <h3 align="center">A Data Science Enthusiast focused on insights and data-driven solutions.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minakshi31&label=Profile%20views&color=0e75b6&style=flat" alt="minakshi31" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b008fb_8f7ff58ce8444721a4292503c9d2e054~mv2.gif">
 
 🔭 I’m currently exploring:
@@ -18,6 +18,7 @@
 - 📫 How to reach me
 -  **Linkedin :https://www.linkedin.com/in/minakshi-shiwankar-694472235/**
 -   **Email    :minakshidshiwankar31@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minakshi31&label=Profile%20views&color=0e75b6&style=flat" alt="minakshi31" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
