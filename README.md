@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Minakshi Shiwankar</h1>
 <h3 align="center">A Data Science Enthusiast focused on insights and data-driven solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minakshi31&label=Profile%20views&color=0e75b6&style=flat" alt="minakshi31" /> </p>
