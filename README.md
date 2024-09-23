@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minakshi Shiwankar</h1>
-<h3 align="center">A Data Science Enthusiast focused on insights and data-driven solutions.</h3>
+<h3 align="center">A Data Science and analysis Enthusiast focused on insights and data-driven solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b008fb_8f7ff58ce8444721a4292503c9d2e054~mv2.gif">
 
