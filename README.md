@@ -10,7 +10,6 @@
 - Statistic: Using statistical methods to uncover insights and drive data-informed decisions
 - Python: Learning the ins and outs of Python programming for data manipulation and analysis.
 - Data Visualization: Creating compelling visualizations to communicate insights effectively.
-- Deep Learning: Exploring neural networks and deep learning architectures for solving complex problems.
 - Natural Language Processing (NLP): Harnessing the power of NLP techniques for text analysis and understanding.
 
 ## 🌱 💼 Previous experience: Data Analyst Intern 
